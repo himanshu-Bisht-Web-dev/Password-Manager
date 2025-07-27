@@ -28,7 +28,7 @@ Installation
 Clone the Repository (or download the script):
 If you're using Git, clone this repository to your local machine:
 
-git clone <your-repository-url>
+git clone https://github.com/himanshu-Bisht-Web-dev/Password-Manager.git
 cd <your-repository-directory>
 
 Alternatively, download the password_manager.py file directly.
@@ -59,11 +59,6 @@ Local Storage: This password manager stores all data locally on your computer. I
 Educational/Personal Use: This project is designed as an educational demonstration and for personal use. For highly sensitive, enterprise-level password management, consider professional solutions that offer advanced security features like multi-factor authentication, cloud synchronization, and extensive auditing.
 
 🤝 Contributing
-(Optional section - you can add this if you plan to accept contributions)
 
 Feel free to fork this repository, make improvements, and submit pull requests.
 
-📄 License
-(Optional section - you can add a license, e.g., MIT License)
-
-This project is open-source and available under the MIT License.
